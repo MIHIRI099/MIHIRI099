@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MIHIRI ELAPATHA</h1>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/11964344-Techverse">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihiri099&label=Profile%20views&color=0e75b6&style=flat" alt="mihiri099" /> </p>
 
